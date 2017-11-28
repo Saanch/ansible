@@ -7,7 +7,7 @@ web1
 [dbservers]
 db1
 
-[datacenter]
+[datacenter:children]
 webservers
 dbservers
 
